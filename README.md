@@ -5,9 +5,10 @@ I'm currently working at Nanyang Technological University (NTU) as a Research Fe
 
 ### News
 
+2026-09-16 — I am invited to give an oral presentation at the 2026 Shanghai Jiao Tong University School of Medicine International Youth Scholars Forum – Multidisciplinary Intelligent Rehabilitation Sub-forum. 
+
 2026-09-15 — Our paper titled "Dual-Modal Motion Planning and Control for Robotic Orchard Pruning Under Uncertainties" is accepted by *IEEE Transactions on Field Robotics*.
 
-2026-09-16 — I am invited to give an oral presentation at the 2026 Shanghai Jiao Tong University School of Medicine International Youth Scholars Forum – Multidisciplinary Intelligent Rehabilitation Sub-forum. 
 
 
 ### Publications
