@@ -14,27 +14,27 @@ I'm currently working at Nanyang Technological University (NTU) as a Research Fe
 ### Publications
 
 [Dual-Modal Motion Planning and Control for Robotic Orchard Pruning Under Uncertainties](https://www.ieee-ras.org/publications/t-fr/)\
-<u>Gaoyuan Liu</u>, Bas Boom, Yuri Durodié, Rathul Nengminza Sangma, Chaoyue Fei, Ann Nowé, Bram Vanderborght — *IEEE Transactions on Field Robotics*, Accepted, Sep 2026 [[Video]](https://youtu.be/5K0QKzyOZmY)
+<span style="text-decoration: underline">Gaoyuan Liu</span>, Bas Boom, Yuri Durodié, Rathul Nengminza Sangma, Chaoyue Fei, Ann Nowé, Bram Vanderborght — *IEEE Transactions on Field Robotics*, Accepted, Sep 2026 [[Video]](https://youtu.be/5K0QKzyOZmY)
 
-[Automated Behavior Planning for Fruit Tree Pruning via Redundant Robot Manipulators: Addressing the Behavior Planning Challenge](https://ieeexplore.ieee.org/document/10978028)
+[Automated Behavior Planning for Fruit Tree Pruning via Redundant Robot Manipulators: Addressing the Behavior Planning Challenge](https://ieeexplore.ieee.org/document/10978028)\
 Gaoyuan Liu, Bas Boom, Naftali Slob, Yuri Durodié, Ann Nowé, Bram Vanderborght — *IEEE Robotics & Automation Magazine*, May 2025 [[Video]](https://youtu.be/n6yvKsar7_4)
 
-[Where Are You? Unscented Particle Filter for Single Range Relative Pose Estimation in Unobservable Motion Using UWB and VIO](https://ieeexplore.ieee.org/document/10750234)
+[Where Are You? Unscented Particle Filter for Single Range Relative Pose Estimation in Unobservable Motion Using UWB and VIO](https://ieeexplore.ieee.org/document/10750234)\
 Yuri Durodié, Bryan Convens, Gaoyuan Liu, Thomas Decoster, Adrian Munteanu, Bram Vanderborght — *IEEE Robotics and Automation Letters*, Dec 2024 [[Video]](https://youtu.be/LZUHADsAmjo)
 
-[Optimistic Reinforcement Learning-Based Skill Insertions for Task and Motion Planning](https://ieeexplore.ieee.org/document/10522875)
+[Optimistic Reinforcement Learning-Based Skill Insertions for Task and Motion Planning](https://ieeexplore.ieee.org/document/10522875)\
 Gaoyuan Liu, Joris De Winter, Yuri Durodié, Denis Steckelmacher, Ann Nowe, Bram Vanderborght — *IEEE Robotics and Automation Letters*, May 2024 [[Video]](https://youtu.be/mlLTIFM01ig)
 
-[Automated Grasp Planning and Finger Design Space Search Using Multiple Grasp Quality Measures](https://www.mdpi.com/2218-6581/13/5/74)
+[Automated Grasp Planning and Finger Design Space Search Using Multiple Grasp Quality Measures](https://www.mdpi.com/2218-6581/13/5/74)\
 Hota Roshan Kumar, Gaoyuan Liu, Bieke Decraemer, Sofie Burggraeve, Tom Verstraten, Bram Vanderborght, Greet Van de Perre — *Robotics*, May 2024
 
-[Synergistic Task and Motion Planning with Reinforcement Learning-Based Non-Prehensile Actions](https://ieeexplore.ieee.org/document/10080986)
+[Synergistic Task and Motion Planning with Reinforcement Learning-Based Non-Prehensile Actions](https://ieeexplore.ieee.org/document/10080986)\
 Gaoyuan Liu, Joris De Winter, Denis Steckelmacher, Roshan Kumar Hota, Ann Nowe, Bram Vanderborght — *IEEE Robotics and Automation Letters*, May 2023 [[Video]](https://youtu.be/uygLfFD1Di8)
 
-[MoveRL: To a Safer Robotic Reinforcement Learning Environment](https://link.springer.com/chapter/10.1007/978-3-030-93842-0_14)
+[MoveRL: To a Safer Robotic Reinforcement Learning Environment](https://link.springer.com/chapter/10.1007/978-3-030-93842-0_14)\
 Gaoyuan Liu, Joris De Winter, Bram Vanderborght, Ann Nowé, Denis Steckelmacher — *BNAIC/Benelearn 2021*, Nov 2021 [[Video]](https://youtu.be/ObmlDBDyGYk)
 
-[A Task-Efficient Reinforcement Learning Task-Motion Planner for Safe Human-Robot Cooperation](https://arxiv.org/abs/2510.12477)
+[A Task-Efficient Reinforcement Learning Task-Motion Planner for Safe Human-Robot Cooperation](https://arxiv.org/abs/2510.12477)\
 Gaoyuan Liu, Joris de Winter, Kelly Merckaert, Denis Steckelmacher, Ann Nowe, Bram Vanderborght - ArXiv, 2025
 
 
