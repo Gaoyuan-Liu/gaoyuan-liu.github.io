@@ -14,6 +14,7 @@ I'm currently working at Nanyang Technological University (NTU) as a Research Fe
 ### Publications
 
 [Dual-Modal Motion Planning and Control for Robotic Orchard Pruning Under Uncertainties](https://www.ieee-ras.org/publications/t-fr/)
+
 Gaoyuan Liu, Bas Boom, Yuri Durodié, Rathul Nengminza Sangma, Chaoyue Fei, Ann Nowé, Bram Vanderborght — *IEEE Transactions on Field Robotics*, Accepted, Sep 2026 [[Video]](https://youtu.be/5K0QKzyOZmY)
 
 [Automated Behavior Planning for Fruit Tree Pruning via Redundant Robot Manipulators: Addressing the Behavior Planning Challenge](https://ieeexplore.ieee.org/document/10978028)
