@@ -48,7 +48,7 @@ FWO Grant for Research Stay — April–July 2024
 Best Paper Award, AI & Machine Learning track, BNAIC/Benelearn 2021  
 
 ### Talks & Demos
-
+Oral Presentation, [Shanghai Jiao Tong University School of Medicine International Youth Scholars Forum](https://www.shsmu.edu.cn/irm/info/1014/1871.htm?_refluxos=a10), 2026, Shanghai, China
 Oral Presentation, IEEE/RSJ IROS 2025, Hangzhou, China  
 Talk, Flanders AI Day 2025, Ghent, Belgium  
 Demo, IMEC ITF World 2025, Antwerp, Belgium  
