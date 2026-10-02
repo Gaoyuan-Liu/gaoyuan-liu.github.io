@@ -5,7 +5,7 @@ I'm currently working at Nanyang Technological University (NTU) as a Research Fe
 
 ### News
 
-2026-09-22 — The co-authored paper titled "Parallelizing Task and Motion Planning in Heterogeneous Dual-Robot Systems Using Satisfiability Solver" is accepted by *Robotics and Autonomous Systems*. 
+2026-10-02 — The co-authored paper titled "Parallelizing Task and Motion Planning in Heterogeneous Dual-Robot Systems Using Satisfiability Solver" is published by *Robotics and Autonomous Systems*. 
 
 2026-09-16 — I am invited to give an oral presentation at the [2026 Shanghai Jiao Tong University School of Medicine International Youth Scholars Forum – Multidisciplinary Intelligent Rehabilitation Sub-forum](https://www.shsmu.edu.cn/irm/info/1017/1860.htm?_refluxos=a10). 
 
@@ -14,6 +14,9 @@ I'm currently working at Nanyang Technological University (NTU) as a Research Fe
 
 
 ### Publications
+
+[Parallelizing Task and Motion Planning in Heterogeneous Dual-Robot Systems Using Satisfiability Solver](https://www.sciencedirect.com/science/article/pii/S0921889026004446)\
+Mehran Raisi Hatmabadi, <u>Gaoyuan Liu</u>, Mohayad Omer, Hamed Firouzipouyaei, Ann Nowé, Bram Vanderborght - *Robotics and Autonomous Systems*, Oct 2026
 
 [Dual-Modal Motion Planning and Control for Robotic Orchard Pruning Under Uncertainties](https://ieeexplore.ieee.org/document/11701314)\
 <span style="text-decoration: underline">Gaoyuan Liu</span>, Bas Boom, Yuri Durodié, Rathul Nengminza Sangma, Chaoyue Fei, Ann Nowé, Bram Vanderborght — *IEEE Transactions on Field Robotics*, Sep 2026 [[Video]](https://www.youtube.com/watch?v=x2wsG8Kknrg)
