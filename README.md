@@ -15,11 +15,12 @@ I'm currently working at Nanyang Technological University (NTU) as a Research Fe
 
 ### Publications
 
+[Dual-Modal Motion Planning and Control for Robotic Orchard Pruning Under Uncertainties](https://ieeexplore.ieee.org/document/11701314)\
+<span style="text-decoration: underline">Gaoyuan Liu</span>, Bas Boom, Yuri Durodié, Rathul Nengminza Sangma, Chaoyue Fei, Ann Nowé, Bram Vanderborght — *IEEE Transactions on Field Robotics*, Sep 2026 [[Video]](https://www.youtube.com/watch?v=x2wsG8Kknrg)
+
 [Parallelizing Task and Motion Planning in Heterogeneous Dual-Robot Systems Using Satisfiability Solver](https://www.sciencedirect.com/science/article/pii/S0921889026004446)\
 Mehran Raisi Hatmabadi, <u>Gaoyuan Liu</u>, Mohayad Omer, Hamed Firouzipouyaei, Ann Nowé, Bram Vanderborght - *Robotics and Autonomous Systems*, Oct 2026
 
-[Dual-Modal Motion Planning and Control for Robotic Orchard Pruning Under Uncertainties](https://ieeexplore.ieee.org/document/11701314)\
-<span style="text-decoration: underline">Gaoyuan Liu</span>, Bas Boom, Yuri Durodié, Rathul Nengminza Sangma, Chaoyue Fei, Ann Nowé, Bram Vanderborght — *IEEE Transactions on Field Robotics*, Sep 2026 [[Video]](https://www.youtube.com/watch?v=x2wsG8Kknrg)
 
 [Automated Behavior Planning for Fruit Tree Pruning via Redundant Robot Manipulators: Addressing the Behavior Planning Challenge](https://ieeexplore.ieee.org/document/10978028)\
 <u>Gaoyuan Liu</u>, Bas Boom, Naftali Slob, Yuri Durodié, Ann Nowé, Bram Vanderborght — *IEEE Robotics & Automation Magazine*, May 2025 [[Video]](https://youtu.be/n6yvKsar7_4)
@@ -41,6 +42,9 @@ Hota Roshan Kumar, <u>Gaoyuan Liu</u>, Bieke Decraemer, Sofie Burggraeve, Tom Ve
 
 [A Task-Efficient Reinforcement Learning Task-Motion Planner for Safe Human-Robot Cooperation](https://arxiv.org/abs/2510.12477)\
 <u>Gaoyuan Liu</u>, Joris de Winter, Kelly Merckaert, Denis Steckelmacher, Ann Nowe, Bram Vanderborght - ArXiv, 2025
+
+[CaSCo: Cascade-Aware Soft-Collision Motion Planning](https://arxiv.org/abs/2609.18910)\
+Shivaram Kumar, <u>Gaoyuan Liu</u>, Yoonchang Sung - ArXiv, 2026
 
 
 ### Grants & Awards
