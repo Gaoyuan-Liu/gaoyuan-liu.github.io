@@ -52,7 +52,7 @@ Shivaram Kumar, <u>Gaoyuan Liu</u>, Yoonchang Sung - ArXiv, 2026
 FWO Traveling Grant, IROS 2025 — Oct 2025  
 FWO Traveling Grant, ICRA@40 — Sept 2024  
 FWO Grant for Research Stay — April–July 2024  
-Best Paper Award, AI & Machine Learning track, BNAIC/Benelearn 2021  
+[Best Paper Award, AI & Machine Learning track, BNAIC/Benelearn 2021](https://ai.vub.ac.be/ai-lab-wins-two-awards-at-bnaic-2021/) 
 
 ### Talks & Demos
 Oral Presentation, [Shanghai Jiao Tong University School of Medicine International Youth Scholars Forum](https://www.shsmu.edu.cn/irm/info/1014/1871.htm?_refluxos=a10), 2026, Shanghai, China
